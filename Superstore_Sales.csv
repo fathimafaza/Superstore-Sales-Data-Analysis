@@ -1,0 +1,201 @@
+Order ID,Order Date,Ship Date,Region,Category,Sub-Category,Product Name,Sales,Quantity,Profit,Customer Segment
+ORD1000,2023-01-01,2023-01-03,Central,Technology,Chairs,Product B,365.04,8,19.84,Corporate
+ORD1001,2023-01-02,2023-01-04,South,Technology,Accessories,Product A,996.25,6,23.97,Corporate
+ORD1002,2023-01-03,2023-01-05,East,Furniture,Phones,Product C,727.23,3,58.93,Home Office
+ORD1003,2023-01-04,2023-01-06,Central,Furniture,Binders,Product A,445.78,9,70.72,Home Office
+ORD1004,2023-01-05,2023-01-07,Central,Office Supplies,Storage,Product D,763.39,2,219.91,Consumer
+ORD1005,2023-01-06,2023-01-08,South,Furniture,Chairs,Product D,923.73,8,39.75,Consumer
+ORD1006,2023-01-07,2023-01-09,East,Technology,Storage,Product A,962.83,3,87.29,Corporate
+ORD1007,2023-01-08,2023-01-10,East,Technology,Phones,Product A,152.08,5,149.99,Home Office
+ORD1008,2023-01-09,2023-01-11,Central,Furniture,Phones,Product A,455.07,6,51.09,Home Office
+ORD1009,2023-01-10,2023-01-12,West,Technology,Chairs,Product A,196.08,6,234.63,Home Office
+ORD1010,2023-01-11,2023-01-13,Central,Technology,Binders,Product D,402.09,4,134.98,Corporate
+ORD1011,2023-01-12,2023-01-14,Central,Furniture,Tables,Product B,252.71,3,17.62,Consumer
+ORD1012,2023-01-13,2023-01-15,Central,Furniture,Chairs,Product A,682.16,4,185.62,Corporate
+ORD1013,2023-01-14,2023-01-16,Central,Technology,Tables,Product A,449.44,1,111.06,Consumer
+ORD1014,2023-01-15,2023-01-17,South,Technology,Accessories,Product D,306.46,4,113.78,Consumer
+ORD1015,2023-01-16,2023-01-18,East,Technology,Tables,Product D,339.34,1,92.44,Corporate
+ORD1016,2023-01-17,2023-01-19,South,Office Supplies,Binders,Product C,424.31,1,98.8,Consumer
+ORD1017,2023-01-18,2023-01-20,South,Office Supplies,Accessories,Product A,333.95,6,206.14,Consumer
+ORD1018,2023-01-19,2023-01-21,South,Office Supplies,Tables,Product C,507.92,5,-58.81,Home Office
+ORD1019,2023-01-20,2023-01-22,Central,Furniture,Accessories,Product D,129.08,4,33.75,Consumer
+ORD1020,2023-01-21,2023-01-23,West,Office Supplies,Tables,Product D,351.79,3,-69.8,Corporate
+ORD1021,2023-01-22,2023-01-24,East,Furniture,Binders,Product B,470.09,1,201.3,Corporate
+ORD1022,2023-01-23,2023-01-25,West,Furniture,Tables,Product A,642.5,6,8.92,Consumer
+ORD1023,2023-01-24,2023-01-26,South,Office Supplies,Tables,Product C,343.86,2,258.97,Home Office
+ORD1024,2023-01-25,2023-01-27,South,Office Supplies,Tables,Product D,219.87,8,110.63,Home Office
+ORD1025,2023-01-26,2023-01-28,West,Office Supplies,Chairs,Product D,168.58,5,220.3,Consumer
+ORD1026,2023-01-27,2023-01-29,West,Technology,Chairs,Product C,946.48,7,291.57,Consumer
+ORD1027,2023-01-28,2023-01-30,West,Office Supplies,Chairs,Product B,474.98,2,235.92,Corporate
+ORD1028,2023-01-29,2023-01-31,South,Technology,Binders,Product D,623.05,8,246.8,Consumer
+ORD1029,2023-01-30,2023-02-01,South,Furniture,Accessories,Product A,927.26,2,63.19,Home Office
+ORD1030,2023-01-31,2023-02-02,East,Technology,Phones,Product D,174.47,4,120.69,Consumer
+ORD1031,2023-02-01,2023-02-03,East,Office Supplies,Tables,Product A,889.0,1,1.56,Corporate
+ORD1032,2023-02-02,2023-02-04,South,Furniture,Tables,Product C,596.43,5,-21.55,Corporate
+ORD1033,2023-02-03,2023-02-05,West,Furniture,Binders,Product A,248.35,9,102.2,Corporate
+ORD1034,2023-02-04,2023-02-06,West,Furniture,Tables,Product C,470.13,1,138.02,Corporate
+ORD1035,2023-02-05,2023-02-07,East,Technology,Chairs,Product A,799.84,9,35.71,Corporate
+ORD1036,2023-02-06,2023-02-08,South,Office Supplies,Phones,Product C,532.33,8,127.78,Consumer
+ORD1037,2023-02-07,2023-02-09,East,Furniture,Storage,Product A,986.76,6,254.98,Consumer
+ORD1038,2023-02-08,2023-02-10,East,Furniture,Tables,Product B,439.07,7,122.69,Consumer
+ORD1039,2023-02-09,2023-02-11,Central,Furniture,Chairs,Product A,774.62,3,188.33,Consumer
+ORD1040,2023-02-10,2023-02-12,Central,Technology,Storage,Product A,453.69,1,222.13,Corporate
+ORD1041,2023-02-11,2023-02-13,Central,Technology,Phones,Product B,846.25,5,295.49,Home Office
+ORD1042,2023-02-12,2023-02-14,West,Office Supplies,Storage,Product D,612.17,2,141.28,Consumer
+ORD1043,2023-02-13,2023-02-15,South,Technology,Chairs,Product D,157.16,5,222.74,Home Office
+ORD1044,2023-02-14,2023-02-16,South,Furniture,Accessories,Product A,133.14,8,285.06,Consumer
+ORD1045,2023-02-15,2023-02-17,South,Office Supplies,Accessories,Product B,220.47,9,277.76,Consumer
+ORD1046,2023-02-16,2023-02-18,South,Furniture,Storage,Product A,112.3,2,-43.57,Home Office
+ORD1047,2023-02-17,2023-02-19,Central,Furniture,Binders,Product C,167.82,3,62.56,Corporate
+ORD1048,2023-02-18,2023-02-20,West,Technology,Storage,Product C,722.54,3,29.6,Consumer
+ORD1049,2023-02-19,2023-02-21,West,Office Supplies,Tables,Product A,580.91,1,-65.23,Consumer
+ORD1050,2023-02-20,2023-02-22,Central,Technology,Tables,Product D,774.92,8,153.3,Consumer
+ORD1051,2023-02-21,2023-02-23,West,Technology,Accessories,Product D,921.85,6,194.36,Home Office
+ORD1052,2023-02-22,2023-02-24,Central,Office Supplies,Binders,Product A,626.63,8,239.25,Corporate
+ORD1053,2023-02-23,2023-02-25,South,Furniture,Chairs,Product A,753.51,9,-50.89,Home Office
+ORD1054,2023-02-24,2023-02-26,Central,Furniture,Tables,Product C,781.37,5,250.58,Home Office
+ORD1055,2023-02-25,2023-02-27,South,Office Supplies,Accessories,Product D,440.07,3,157.17,Corporate
+ORD1056,2023-02-26,2023-02-28,South,Furniture,Phones,Product A,316.98,5,181.58,Home Office
+ORD1057,2023-02-27,2023-03-01,East,Office Supplies,Accessories,Product C,284.54,5,264.25,Corporate
+ORD1058,2023-02-28,2023-03-02,Central,Office Supplies,Tables,Product D,326.3,5,149.9,Consumer
+ORD1059,2023-03-01,2023-03-03,East,Technology,Tables,Product B,347.26,3,34.35,Corporate
+ORD1060,2023-03-02,2023-03-04,Central,Office Supplies,Accessories,Product C,286.5,4,230.04,Consumer
+ORD1061,2023-03-03,2023-03-05,Central,Technology,Chairs,Product D,890.4,9,45.22,Home Office
+ORD1062,2023-03-04,2023-03-06,East,Furniture,Storage,Product D,781.3,9,-86.31,Home Office
+ORD1063,2023-03-05,2023-03-07,East,Furniture,Tables,Product C,142.21,2,232.26,Consumer
+ORD1064,2023-03-06,2023-03-08,Central,Furniture,Accessories,Product B,341.81,8,38.08,Home Office
+ORD1065,2023-03-07,2023-03-09,West,Furniture,Accessories,Product C,119.97,8,209.53,Corporate
+ORD1066,2023-03-08,2023-03-10,South,Technology,Binders,Product D,548.35,7,45.1,Consumer
+ORD1067,2023-03-09,2023-03-11,East,Furniture,Storage,Product A,528.59,8,244.43,Home Office
+ORD1068,2023-03-10,2023-03-12,South,Office Supplies,Phones,Product A,848.23,3,-12.2,Consumer
+ORD1069,2023-03-11,2023-03-13,West,Office Supplies,Chairs,Product C,377.0,6,289.82,Corporate
+ORD1070,2023-03-12,2023-03-14,West,Office Supplies,Phones,Product D,834.75,1,211.9,Corporate
+ORD1071,2023-03-13,2023-03-15,West,Technology,Storage,Product A,971.18,7,-54.3,Home Office
+ORD1072,2023-03-14,2023-03-16,East,Furniture,Storage,Product D,179.57,1,126.31,Corporate
+ORD1073,2023-03-15,2023-03-17,West,Furniture,Storage,Product C,812.64,9,294.15,Consumer
+ORD1074,2023-03-16,2023-03-18,East,Furniture,Phones,Product A,630.96,1,88.43,Corporate
+ORD1075,2023-03-17,2023-03-19,West,Technology,Storage,Product D,532.04,1,-27.16,Consumer
+ORD1076,2023-03-18,2023-03-20,South,Office Supplies,Accessories,Product A,478.48,7,93.91,Consumer
+ORD1077,2023-03-19,2023-03-21,South,Office Supplies,Phones,Product C,806.2,2,104.98,Corporate
+ORD1078,2023-03-20,2023-03-22,Central,Furniture,Storage,Product D,675.43,5,196.67,Home Office
+ORD1079,2023-03-21,2023-03-23,South,Office Supplies,Accessories,Product A,824.54,8,179.54,Corporate
+ORD1080,2023-03-22,2023-03-24,Central,Office Supplies,Binders,Product C,912.84,8,61.02,Consumer
+ORD1081,2023-03-23,2023-03-25,South,Technology,Storage,Product A,655.54,3,-12.79,Consumer
+ORD1082,2023-03-24,2023-03-26,East,Technology,Phones,Product A,982.42,7,158.02,Corporate
+ORD1083,2023-03-25,2023-03-27,South,Technology,Tables,Product B,647.28,3,68.68,Home Office
+ORD1084,2023-03-26,2023-03-28,Central,Technology,Storage,Product B,672.98,6,-47.09,Home Office
+ORD1085,2023-03-27,2023-03-29,Central,Furniture,Tables,Product C,599.33,6,260.23,Consumer
+ORD1086,2023-03-28,2023-03-30,West,Technology,Accessories,Product B,181.9,3,176.49,Consumer
+ORD1087,2023-03-29,2023-03-31,East,Office Supplies,Binders,Product C,753.76,7,173.27,Home Office
+ORD1088,2023-03-30,2023-04-01,South,Furniture,Chairs,Product B,592.7,3,229.03,Corporate
+ORD1089,2023-03-31,2023-04-02,West,Office Supplies,Binders,Product A,505.82,8,111.86,Consumer
+ORD1090,2023-04-01,2023-04-03,South,Office Supplies,Storage,Product C,919.42,4,226.02,Consumer
+ORD1091,2023-04-02,2023-04-04,South,Office Supplies,Tables,Product C,368.16,1,99.24,Home Office
+ORD1092,2023-04-03,2023-04-05,West,Technology,Tables,Product A,571.24,4,-73.13,Corporate
+ORD1093,2023-04-04,2023-04-06,West,Technology,Phones,Product C,727.88,7,62.1,Home Office
+ORD1094,2023-04-05,2023-04-07,West,Furniture,Tables,Product C,816.82,4,98.99,Corporate
+ORD1095,2023-04-06,2023-04-08,West,Furniture,Phones,Product B,513.41,6,188.08,Corporate
+ORD1096,2023-04-07,2023-04-09,West,Technology,Accessories,Product C,857.88,9,-57.37,Corporate
+ORD1097,2023-04-08,2023-04-10,South,Office Supplies,Chairs,Product D,792.03,1,-43.99,Consumer
+ORD1098,2023-04-09,2023-04-11,West,Furniture,Storage,Product A,159.61,5,5.47,Home Office
+ORD1099,2023-04-10,2023-04-12,East,Technology,Phones,Product B,141.28,7,6.6,Home Office
+ORD1100,2023-04-11,2023-04-13,Central,Technology,Chairs,Product B,658.73,1,192.87,Corporate
+ORD1101,2023-04-12,2023-04-14,West,Technology,Tables,Product D,412.67,4,0.29,Consumer
+ORD1102,2023-04-13,2023-04-15,West,Office Supplies,Tables,Product A,288.22,6,153.24,Consumer
+ORD1103,2023-04-14,2023-04-16,South,Technology,Chairs,Product A,621.68,2,97.71,Home Office
+ORD1104,2023-04-15,2023-04-17,West,Technology,Tables,Product B,407.41,5,129.32,Consumer
+ORD1105,2023-04-16,2023-04-18,West,Technology,Accessories,Product C,583.54,1,235.24,Consumer
+ORD1106,2023-04-17,2023-04-19,West,Technology,Accessories,Product B,514.11,6,61.75,Corporate
+ORD1107,2023-04-18,2023-04-20,South,Furniture,Chairs,Product A,626.29,6,208.36,Consumer
+ORD1108,2023-04-19,2023-04-21,West,Furniture,Phones,Product D,460.27,4,68.81,Corporate
+ORD1109,2023-04-20,2023-04-22,Central,Technology,Phones,Product B,727.9,8,41.55,Home Office
+ORD1110,2023-04-21,2023-04-23,South,Office Supplies,Chairs,Product A,262.06,4,283.45,Consumer
+ORD1111,2023-04-22,2023-04-24,Central,Furniture,Phones,Product B,726.85,8,-26.25,Home Office
+ORD1112,2023-04-23,2023-04-25,South,Technology,Phones,Product C,470.5,8,-63.87,Home Office
+ORD1113,2023-04-24,2023-04-26,West,Furniture,Accessories,Product B,886.89,5,208.39,Consumer
+ORD1114,2023-04-25,2023-04-27,Central,Furniture,Phones,Product B,563.71,4,-72.7,Consumer
+ORD1115,2023-04-26,2023-04-28,South,Office Supplies,Binders,Product A,975.8,2,234.83,Home Office
+ORD1116,2023-04-27,2023-04-29,East,Technology,Storage,Product A,641.74,3,74.88,Consumer
+ORD1117,2023-04-28,2023-04-30,West,Technology,Tables,Product A,301.46,3,266.21,Corporate
+ORD1118,2023-04-29,2023-05-01,South,Office Supplies,Binders,Product B,839.61,4,188.61,Corporate
+ORD1119,2023-04-30,2023-05-02,East,Office Supplies,Phones,Product C,410.57,4,144.16,Consumer
+ORD1120,2023-05-01,2023-05-03,South,Technology,Accessories,Product D,412.86,5,279.72,Home Office
+ORD1121,2023-05-02,2023-05-04,East,Technology,Chairs,Product D,128.62,4,58.66,Consumer
+ORD1122,2023-05-03,2023-05-05,West,Office Supplies,Phones,Product A,593.84,8,281.63,Consumer
+ORD1123,2023-05-04,2023-05-06,Central,Furniture,Accessories,Product A,580.98,6,-46.0,Home Office
+ORD1124,2023-05-05,2023-05-07,East,Furniture,Storage,Product B,420.39,6,93.5,Home Office
+ORD1125,2023-05-06,2023-05-08,South,Office Supplies,Phones,Product D,904.8,8,7.96,Corporate
+ORD1126,2023-05-07,2023-05-09,West,Furniture,Chairs,Product A,215.87,7,115.94,Home Office
+ORD1127,2023-05-08,2023-05-10,East,Office Supplies,Accessories,Product C,397.09,8,-35.19,Corporate
+ORD1128,2023-05-09,2023-05-11,South,Furniture,Accessories,Product C,389.42,2,236.61,Home Office
+ORD1129,2023-05-10,2023-05-12,South,Furniture,Accessories,Product A,183.06,9,238.56,Consumer
+ORD1130,2023-05-11,2023-05-13,South,Technology,Storage,Product A,533.03,1,282.09,Corporate
+ORD1131,2023-05-12,2023-05-14,East,Technology,Phones,Product D,719.01,8,-38.13,Corporate
+ORD1132,2023-05-13,2023-05-15,East,Furniture,Storage,Product D,560.49,4,149.33,Corporate
+ORD1133,2023-05-14,2023-05-16,East,Furniture,Tables,Product B,241.28,4,89.69,Consumer
+ORD1134,2023-05-15,2023-05-17,Central,Technology,Tables,Product D,439.56,5,37.75,Consumer
+ORD1135,2023-05-16,2023-05-18,East,Technology,Phones,Product C,102.34,8,40.62,Consumer
+ORD1136,2023-05-17,2023-05-19,East,Technology,Storage,Product C,881.47,5,65.12,Consumer
+ORD1137,2023-05-18,2023-05-20,East,Office Supplies,Chairs,Product A,176.07,8,181.97,Consumer
+ORD1138,2023-05-19,2023-05-21,Central,Furniture,Accessories,Product D,637.55,1,139.31,Corporate
+ORD1139,2023-05-20,2023-05-22,East,Technology,Accessories,Product B,987.63,9,83.87,Consumer
+ORD1140,2023-05-21,2023-05-23,South,Furniture,Phones,Product C,582.93,6,-69.63,Corporate
+ORD1141,2023-05-22,2023-05-24,East,Office Supplies,Tables,Product C,931.64,3,-68.89,Consumer
+ORD1142,2023-05-23,2023-05-25,South,Office Supplies,Tables,Product B,312.5,8,-99.06,Home Office
+ORD1143,2023-05-24,2023-05-26,South,Technology,Accessories,Product B,783.96,9,287.08,Corporate
+ORD1144,2023-05-25,2023-05-27,South,Office Supplies,Phones,Product C,578.14,6,-97.9,Home Office
+ORD1145,2023-05-26,2023-05-28,Central,Furniture,Storage,Product C,748.46,7,-58.76,Corporate
+ORD1146,2023-05-27,2023-05-29,Central,Technology,Tables,Product B,156.11,1,25.84,Home Office
+ORD1147,2023-05-28,2023-05-30,Central,Furniture,Storage,Product C,232.97,5,222.97,Consumer
+ORD1148,2023-05-29,2023-05-31,East,Furniture,Tables,Product A,219.81,5,284.84,Consumer
+ORD1149,2023-05-30,2023-06-01,South,Office Supplies,Tables,Product A,718.45,4,216.01,Consumer
+ORD1150,2023-05-31,2023-06-02,Central,Office Supplies,Binders,Product B,860.0,6,176.22,Corporate
+ORD1151,2023-06-01,2023-06-03,Central,Office Supplies,Tables,Product D,774.65,7,108.52,Home Office
+ORD1152,2023-06-02,2023-06-04,East,Office Supplies,Chairs,Product B,127.42,9,-65.32,Consumer
+ORD1153,2023-06-03,2023-06-05,Central,Office Supplies,Phones,Product B,880.49,1,283.27,Home Office
+ORD1154,2023-06-04,2023-06-06,East,Technology,Phones,Product D,418.73,6,203.36,Home Office
+ORD1155,2023-06-05,2023-06-07,West,Furniture,Storage,Product D,457.45,7,155.58,Consumer
+ORD1156,2023-06-06,2023-06-08,Central,Furniture,Tables,Product D,194.38,3,203.61,Consumer
+ORD1157,2023-06-07,2023-06-09,West,Furniture,Chairs,Product A,763.66,8,189.64,Home Office
+ORD1158,2023-06-08,2023-06-10,East,Furniture,Storage,Product C,264.06,5,154.89,Consumer
+ORD1159,2023-06-09,2023-06-11,South,Office Supplies,Binders,Product A,607.57,9,292.23,Consumer
+ORD1160,2023-06-10,2023-06-12,Central,Furniture,Storage,Product C,856.64,5,261.35,Consumer
+ORD1161,2023-06-11,2023-06-13,East,Technology,Storage,Product A,180.28,9,158.67,Corporate
+ORD1162,2023-06-12,2023-06-14,South,Technology,Tables,Product C,581.8,4,177.27,Home Office
+ORD1163,2023-06-13,2023-06-15,South,Furniture,Binders,Product A,309.89,9,-79.36,Home Office
+ORD1164,2023-06-14,2023-06-16,West,Furniture,Storage,Product D,408.63,5,167.97,Corporate
+ORD1165,2023-06-15,2023-06-17,East,Technology,Chairs,Product B,526.57,9,-82.33,Home Office
+ORD1166,2023-06-16,2023-06-18,South,Technology,Chairs,Product A,419.59,3,135.31,Consumer
+ORD1167,2023-06-17,2023-06-19,Central,Office Supplies,Phones,Product C,683.94,4,299.74,Home Office
+ORD1168,2023-06-18,2023-06-20,Central,Technology,Binders,Product D,531.62,9,122.32,Consumer
+ORD1169,2023-06-19,2023-06-21,West,Office Supplies,Binders,Product A,625.78,6,89.28,Corporate
+ORD1170,2023-06-20,2023-06-22,South,Office Supplies,Phones,Product A,763.14,2,25.14,Consumer
+ORD1171,2023-06-21,2023-06-23,East,Office Supplies,Storage,Product D,601.97,7,-51.79,Home Office
+ORD1172,2023-06-22,2023-06-24,Central,Office Supplies,Binders,Product A,627.88,2,192.41,Home Office
+ORD1173,2023-06-23,2023-06-25,South,Office Supplies,Chairs,Product B,608.01,2,-22.96,Home Office
+ORD1174,2023-06-24,2023-06-26,South,Furniture,Chairs,Product A,440.9,1,-53.89,Corporate
+ORD1175,2023-06-25,2023-06-27,West,Technology,Tables,Product B,403.7,3,68.71,Corporate
+ORD1176,2023-06-26,2023-06-28,Central,Office Supplies,Binders,Product B,909.68,6,218.14,Home Office
+ORD1177,2023-06-27,2023-06-29,Central,Technology,Storage,Product D,646.8,8,198.03,Consumer
+ORD1178,2023-06-28,2023-06-30,East,Technology,Phones,Product A,319.92,9,-78.05,Corporate
+ORD1179,2023-06-29,2023-07-01,Central,Office Supplies,Phones,Product D,548.42,7,82.06,Home Office
+ORD1180,2023-06-30,2023-07-02,East,Furniture,Storage,Product A,397.31,4,108.97,Home Office
+ORD1181,2023-07-01,2023-07-03,Central,Office Supplies,Accessories,Product A,940.32,6,157.82,Corporate
+ORD1182,2023-07-02,2023-07-04,West,Furniture,Tables,Product C,106.78,5,160.07,Corporate
+ORD1183,2023-07-03,2023-07-05,Central,Technology,Phones,Product A,302.8,8,45.88,Corporate
+ORD1184,2023-07-04,2023-07-06,East,Furniture,Binders,Product D,428.82,1,124.27,Consumer
+ORD1185,2023-07-05,2023-07-07,East,Furniture,Tables,Product B,539.03,1,92.42,Consumer
+ORD1186,2023-07-06,2023-07-08,West,Furniture,Binders,Product A,865.74,6,254.0,Home Office
+ORD1187,2023-07-07,2023-07-09,Central,Technology,Chairs,Product C,179.1,2,112.11,Corporate
+ORD1188,2023-07-08,2023-07-10,Central,Technology,Tables,Product D,825.28,5,76.41,Consumer
+ORD1189,2023-07-09,2023-07-11,West,Furniture,Phones,Product A,150.09,1,61.79,Corporate
+ORD1190,2023-07-10,2023-07-12,Central,Furniture,Tables,Product D,858.08,7,128.97,Home Office
+ORD1191,2023-07-11,2023-07-13,Central,Office Supplies,Tables,Product C,146.47,1,221.59,Consumer
+ORD1192,2023-07-12,2023-07-14,East,Furniture,Tables,Product C,116.42,4,115.36,Consumer
+ORD1193,2023-07-13,2023-07-15,Central,Office Supplies,Accessories,Product D,727.27,9,164.66,Consumer
+ORD1194,2023-07-14,2023-07-16,Central,Furniture,Tables,Product A,997.53,1,195.14,Home Office
+ORD1195,2023-07-15,2023-07-17,West,Office Supplies,Binders,Product B,906.95,4,108.07,Corporate
+ORD1196,2023-07-16,2023-07-18,West,Technology,Chairs,Product C,618.4,6,70.73,Consumer
+ORD1197,2023-07-17,2023-07-19,South,Furniture,Storage,Product A,925.66,6,250.67,Home Office
+ORD1198,2023-07-18,2023-07-20,East,Furniture,Tables,Product A,104.77,8,67.0,Corporate
+ORD1199,2023-07-19,2023-07-21,Central,Furniture,Phones,Product B,977.56,1,84.78,Home Office
